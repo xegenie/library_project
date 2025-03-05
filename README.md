@@ -2,14 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/88de6e81-be21-4b89-b512-f8431c7484fd)
 
-
----
-
-## 🎥 **프로젝트 발표 영상**  
-[**발표 영상 링크**](https://youtu.be/VkmCQ2mdMZw)
-
-
-
 ---
 
 ## 📚 **프로젝트 소개**
